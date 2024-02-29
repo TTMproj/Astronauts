@@ -12,8 +12,7 @@ Our NFT project leverages the TTM Token to enable users to buy, sell, and collec
 - **Secure Transactions**: Utilize TTM Token for secure and transparent transactions on the blockchain.
 - **Collector's Edition**: Own exclusive NFTs that are limited in number, making them highly valuable for collectors.
 - **Community Engagement**: Join our community of art enthusiasts, collectors, and creators to discuss, share, and appreciate digital art.
-
-3. **Explore and Enjoy**: Visit the provided URL in your browser to explore the collection of inspiring digital art and engage with the community!
+- **Explore and Enjoy**: Visit the provided URL in your browser to explore the collection of inspiring digital art and engage with the community!
 
 ## Community
 
